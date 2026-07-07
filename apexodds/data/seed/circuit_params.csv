@@ -1,0 +1,26 @@
+circuit_id,name,lap_count,pit_loss_s,pit_loss_std_s,sc_prob_race,vsc_prob_race,overtake_difficulty,drs_zones,lap1_hazard_multiplier
+bahrain,Bahrain International Circuit,57,22.5,0.9,0.35,0.45,0.30,3,8
+jeddah,Jeddah Corniche Circuit,50,21.5,0.9,0.65,0.50,0.40,3,8
+albert_park,Albert Park Circuit,58,21.0,0.9,0.65,0.50,0.55,4,8
+suzuka,Suzuka International Racing Course,53,22.5,0.9,0.35,0.40,0.60,1,8
+shanghai,Shanghai International Circuit,56,23.0,0.9,0.45,0.40,0.40,2,8
+miami,Miami International Autodrome,57,21.5,0.9,0.55,0.45,0.45,3,8
+imola,Autodromo Enzo e Dino Ferrari,63,27.0,0.9,0.50,0.45,0.75,1,8
+monaco,Circuit de Monaco,78,19.5,0.9,0.60,0.55,0.97,1,10
+catalunya,Circuit de Barcelona-Catalunya,66,22.0,0.9,0.20,0.30,0.55,2,8
+montreal,Circuit Gilles Villeneuve,70,19.5,0.9,0.65,0.50,0.40,3,8
+red_bull_ring,Red Bull Ring,71,20.0,0.9,0.45,0.45,0.35,3,8
+silverstone,Silverstone Circuit,52,28.5,0.9,0.50,0.45,0.45,2,8
+hungaroring,Hungaroring,70,21.0,0.9,0.35,0.35,0.80,2,8
+spa,Circuit de Spa-Francorchamps,44,23.0,0.9,0.55,0.50,0.30,2,8
+zandvoort,Circuit Zandvoort,72,21.0,0.9,0.55,0.50,0.75,2,8
+monza,Autodromo Nazionale di Monza,53,25.0,0.9,0.45,0.45,0.25,2,8
+baku,Baku City Circuit,51,20.5,0.9,0.75,0.50,0.35,2,9
+marina_bay,Marina Bay Street Circuit,62,27.5,0.9,0.90,0.60,0.85,3,9
+cota,Circuit of the Americas,56,22.5,0.9,0.50,0.45,0.40,2,8
+rodriguez,Autodromo Hermanos Rodriguez,71,22.0,0.9,0.50,0.50,0.55,3,8
+interlagos,Autodromo Jose Carlos Pace,71,21.0,0.9,0.60,0.50,0.35,2,8
+vegas,Las Vegas Strip Circuit,50,21.5,0.9,0.60,0.50,0.30,2,8
+lusail,Lusail International Circuit,57,23.0,0.9,0.45,0.45,0.55,1,8
+yas_marina,Yas Marina Circuit,58,21.5,0.9,0.50,0.45,0.50,2,8
+madring,Madring (Madrid),57,22.0,0.9,0.50,0.45,0.60,2,8

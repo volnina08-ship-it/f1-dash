@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.python-version
+uv.lock
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Data & caches (never commit raw dumps) — anchored to repo root,
+# the apexodds/data python package is NOT affected
+/data/
+/cache/
+/fastf1_cache/
+*.parquet
+
+# Reports (generated)
+/reports/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Node (apps/web, Phase 1)
+node_modules/
+.next/
+out/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
