@@ -64,7 +64,9 @@ Local data lake (gitignored): `data/raw/`, `data/normalized/{session_key}/`,
 - M2 train components (fit() functions ready; training runs pending)
 - M3 engine + replay end-to-end — **done, tested on synthetic race**
 - M4 backtest 60+ races + calibration report → GO/NO-GO (harness ready)
-- M5 replay-mode web dashboard (`apps/web`, API skeleton ready)
+- M5 replay-mode web dashboard — **built** (`apps/web`, Next.js 15 +
+  Framer Motion; demo race in `src/data/race.json` from
+  `scripts/make_demo_race.py`; deploy = Vercel import, root dir `apps/web`)
 - M6 first live GP weekend (OpenF1 realtime subscription needed)
 
 ## Known quirks / decisions
